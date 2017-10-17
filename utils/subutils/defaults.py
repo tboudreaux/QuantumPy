@@ -1,0 +1,13 @@
+DEFAULT_HIST_PARAMS = dict()
+DEFAULT_HIST_PARAMS['xlabel'] = r'Measurment [$\hbar$]'
+DEFAULT_HIST_PARAMS['xlabel_fontsize'] = 17
+DEFAULT_HIST_PARAMS['ylabel'] = r'Probability'
+DEFAULT_HIST_PARAMS['ylabel_fontsize'] = 17
+DEFAULT_HIST_PARAMS['title'] = r'Probability vs. Measurment'
+DEFAULT_HIST_PARAMS['title_fontize'] = 20
+DEFAULT_HIST_PARAMS['legend_loc'] = r'best'
+DEFAULT_HIST_PARAMS['legend_fontsize'] = 15
+DEFAULT_HIST_PARAMS['labels'] = None
+DEFAULT_HIST_PARAMS['legend'] = True
+DEFAULT_HIST_PARAMS['xlim'] = None
+DEFAULT_HIST_PARAMS['ylim'] = (0, 1)
